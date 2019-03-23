@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  30 NOV 2018 20:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  22 MAR 2019 20:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -748,14 +748,14 @@ zplm/m/n/10.95 (\OML/zplm/m/it/10.95 W[]\OT1/zplm/m/n/10.95 ) =
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/pplx/b/n' tried instead on input line 239.
 [6] [7] [8]
-Overfull \hbox (4.6367pt too wide) in paragraph at lines 346--347
+Overfull \hbox (4.6367pt too wide) in paragraph at lines 342--343
 []\OT1/pplx/m/n/10.95 There are two sit-u-a-tions where the $\OML/zplm/m/it/10.
 95 B$ \OT1/pplx/m/n/10.95 is suit-able: equal vari-ances, and test-ing a one-di
 mensional
  []
 
 [9]
-Overfull \hbox (16.44817pt too wide) in paragraph at lines 373--374
+Overfull \hbox (16.44817pt too wide) in paragraph at lines 369--370
 []\OT1/pplx/b/n/10.95 Theorem 3. []\OT1/pplx/m/n/10.95 If As-sump-tion []1[] ho
 lds, then un-der $\OML/zplm/m/it/10.95 H[]\OT1/zplm/m/n/10.95 (\OML/zplm/m/it/1
 0.95 C\OT1/pplx/m/n/10.95 , 0[]\OT1/zplm/m/n/10.95 )$\OT1/pplx/m/n/10.95 , $\OM
@@ -764,85 +764,91 @@ L/zplm/m/it/10.95 m \OMS/zplm/m/n/10.95 ^^B \OML/zplm/m/it/10.95 F [] [][] ^^U[
 )[][]\OML/zplm/m/it/10.95 ^^X[]$
  []
 
-[10]
+
+Overfull \hbox (17.3716pt too wide) in paragraph at lines 372--373
+[]\OT1/pplx/m/n/10.95 The clas-si-cal lin-ear model im-plic-itly as-sumes a con
+-stant treat-ment ef-fect for all units ([]Kempthorne[]
+ []
+
+[10] [11]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 431.
+(hyperref)                removing `math shift' on input line 427.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 431.
+(hyperref)                removing `superscript' on input line 427.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 431.
+(hyperref)                removing `math shift' on input line 427.
 
-[11] [12] [13] [14] [15] [16] [17] [18] [19]
-<Visuals/BrunnerAnova.pdf, id=644, 433.62pt x 361.35pt>
+[12] [13] [14] [15] [16] [17] [18] [19]
+<Visuals/BrunnerAnova.pdf, id=646, 433.62pt x 361.35pt>
 File: Visuals/BrunnerAnova.pdf Graphic file (type pdf)
 
 <use Visuals/BrunnerAnova.pdf>
-Package pdftex.def Info: Visuals/BrunnerAnova.pdf used on input line 783.
+Package pdftex.def Info: Visuals/BrunnerAnova.pdf used on input line 779.
 (pdftex.def)             Requested size: 225.4804pt x 187.90308pt.
 
-<Visuals/BrunnerFact.pdf, id=645, 433.62pt x 361.35pt>
+<Visuals/BrunnerFact.pdf, id=647, 433.62pt x 361.35pt>
 File: Visuals/BrunnerFact.pdf Graphic file (type pdf)
 
 <use Visuals/BrunnerFact.pdf>
-Package pdftex.def Info: Visuals/BrunnerFact.pdf used on input line 784.
+Package pdftex.def Info: Visuals/BrunnerFact.pdf used on input line 780.
 (pdftex.def)             Requested size: 225.4804pt x 187.90308pt.
- <Visuals/Block.pdf, id=651, 433.62pt x 361.35pt>
+ [20 <./Visuals/BrunnerAnova.pdf> <./Visuals/BrunnerFact.pdf>] <Visuals/Block.p
+df, id=672, 433.62pt x 361.35pt>
 File: Visuals/Block.pdf Graphic file (type pdf)
 
 <use Visuals/Block.pdf>
-Package pdftex.def Info: Visuals/Block.pdf used on input line 800.
+Package pdftex.def Info: Visuals/Block.pdf used on input line 796.
 (pdftex.def)             Requested size: 216.80946pt x 180.67456pt.
- [20 <./Visuals/BrunnerAnova.pdf> <./Visuals/BrunnerFact.pdf>] <Visuals/1D-CI1.
-pdf, id=675, 433.62pt x 361.35pt>
+ [21 <./Visuals/Block.pdf>]
+<Visuals/1D-CI1.pdf, id=690, 433.62pt x 361.35pt>
 File: Visuals/1D-CI1.pdf Graphic file (type pdf)
-
-<use Visuals/1D-CI1.pdf>
-Package pdftex.def Info: Visuals/1D-CI1.pdf used on input line 826.
+ <use Visuals/1D-CI1.pdf>
+Package pdftex.def Info: Visuals/1D-CI1.pdf used on input line 822.
 (pdftex.def)             Requested size: 225.4804pt x 187.90308pt.
- <Visuals/1D-CI2.pdf, id=676, 433.62pt x 361.35pt>
+
+<Visuals/1D-CI2.pdf, id=691, 433.62pt x 361.35pt>
 File: Visuals/1D-CI2.pdf Graphic file (type pdf)
-
-<use Visuals/1D-CI2.pdf>
-Package pdftex.def Info: Visuals/1D-CI2.pdf used on input line 827.
+ <use Visuals/1D-CI2.pdf>
+Package pdftex.def Info: Visuals/1D-CI2.pdf used on input line 823.
 (pdftex.def)             Requested size: 225.4804pt x 187.90308pt.
 
-<Visuals/2D-FRTvsAsymp.pdf, id=677, 433.62pt x 361.35pt>
+<Visuals/2D-FRTvsAsymp.pdf, id=692, 433.62pt x 361.35pt>
 File: Visuals/2D-FRTvsAsymp.pdf Graphic file (type pdf)
 
 <use Visuals/2D-FRTvsAsymp.pdf>
-Package pdftex.def Info: Visuals/2D-FRTvsAsymp.pdf used on input line 833.
+Package pdftex.def Info: Visuals/2D-FRTvsAsymp.pdf used on input line 829.
 (pdftex.def)             Requested size: 225.4804pt x 187.90308pt.
 
-<Visuals/pvscatterFact.pdf, id=678, 433.62pt x 361.35pt>
+<Visuals/pvscatterFact.pdf, id=693, 433.62pt x 361.35pt>
 File: Visuals/pvscatterFact.pdf Graphic file (type pdf)
 
 <use Visuals/pvscatterFact.pdf>
-Package pdftex.def Info: Visuals/pvscatterFact.pdf used on input line 834.
+Package pdftex.def Info: Visuals/pvscatterFact.pdf used on input line 830.
 (pdftex.def)             Requested size: 225.4804pt x 187.90308pt.
- [21 <./Visuals/Block.pdf>] [22 <./Visuals/1D-CI1.pdf> <./Visuals/1D-CI2.pdf>] 
-[23 <./Visuals/2D-FRTvsAsymp.pdf> <./Visuals/pvscatterFact.pdf>] [24] (./Studen
-tWriteup.bbl [25] [26] [27] [28] [29]) [30]
+ [22 <./Visuals/1D-CI1.pdf> <./Visuals/1D-CI2.pdf>] [23 <./Visuals/2D-FRTvsAsym
+p.pdf> <./Visuals/pvscatterFact.pdf>] [24]
+(./StudentWriteup.bbl [25] [26] [27] [28] [29]) [30]
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 923.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 919.
 pdfTeX warning (ext4): destination with the same identifier (name{section.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.972 \section{Lemmas}
+l.968 \section{Lemmas}
                       \label{a::lemmas} [1
 
 ] [2]
-Overfull \hbox (21.06422pt too wide) in paragraph at lines 1061--1061
+Overfull \hbox (21.06422pt too wide) in paragraph at lines 1054--1054
 [] 
  []
 
 [3] [4]
-Overfull \hbox (2.17168pt too wide) in paragraph at lines 1158--1158
+Overfull \hbox (2.17168pt too wide) in paragraph at lines 1151--1151
 [] 
  []
 
@@ -850,33 +856,33 @@ Overfull \hbox (2.17168pt too wide) in paragraph at lines 1158--1158
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1176 \section{Proofs of the Main Theorems}
+l.1169 \section{Proofs of the Main Theorems}
                                              [6]pdfTeX warning (ext4): destinat
 ion with the same identifier (name{equation.2.3}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.1229 \begin{equation}
+l.1222 \begin{equation}
                        \label{e:mainpf1}pdfTeX warning (ext4): destination with
  the same identifier (name{equation.2.3}) has been already used, duplicate igno
 red
 <to be read again> 
                    \relax 
-l.1229 \begin{equation}
+l.1222 \begin{equation}
                        \label{e:mainpf1}pdfTeX warning (ext4): destination with
  the same identifier (name{equation.2.3}) has been already used, duplicate igno
 red
 <to be read again> 
                    \relax 
-l.1229 \begin{equation}
+l.1222 \begin{equation}
                        \label{e:mainpf1}pdfTeX warning (ext4): destination with
  the same identifier (name{equation.2.3}) has been already used, duplicate igno
 red
 <to be read again> 
                    \relax 
-l.1229 \begin{equation}
+l.1222 \begin{equation}
                        \label{e:mainpf1}
-Overfull \hbox (9.31711pt too wide) detected at line 1248
+Overfull \hbox (9.31711pt too wide) detected at line 1241
 []\OT1/zplm/m/n/10.95 (\OML/zplm/m/it/10.95 C[]Y[] \OMS/zplm/m/n/10.95 ^^@ \OML
 /zplm/m/it/10.95 x\OT1/zplm/m/n/10.95 ) = []\OML/zplm/m/it/10.95 C\OT1/zplm/m/n
 /10.95 ([]\OML/zplm/m/it/10.95 Y[] \OMS/zplm/m/n/10.95 ^^@ []\OT1/zplm/m/n/10.9
@@ -889,7 +895,7 @@ m/m/it/10.95 C[][] [] \OMS/zplm/m/n/10.95 N\OT1/zplm/m/n/10.95 (\OT1/pplx/m/n/1
  []
 
 [7] [8]
-Overfull \hbox (23.97673pt too wide) in paragraph at lines 1299--1301
+Overfull \hbox (23.97673pt too wide) in paragraph at lines 1292--1294
 \OT1/pplx/m/n/10.95 Extending pre-vi-ous no-ta-tion to the SRE, put $[] \OT1/zp
 lm/m/n/10.95 = \OML/zplm/m/it/10.95 N[] [][] I\OT1/zplm/m/n/10.95 (\OML/zplm/m/
 it/10.95 X[] \OT1/zplm/m/n/10.95 = \OML/zplm/m/it/10.95 h\OT1/zplm/m/n/10.95 )\
@@ -898,7 +904,7 @@ plm/m/it/10.95 N[] [][] N[]z[]$\OT1/pplx/m/n/10.95 .
  []
 
 [9]
-Overfull \hbox (15.44342pt too wide) detected at line 1333
+Overfull \hbox (15.44342pt too wide) detected at line 1326
 []\OT1/zplm/m/n/10.95 (\OT1/pplx/m/n/10.95 1\OT1/zplm/m/n/10.95 )[] = [] [] \OM
 L/zplm/m/it/10.95 Y[]\OT1/zplm/m/n/10.95 (\OT1/pplx/m/n/10.95 1\OT1/zplm/m/n/10
 .95 )[] = [] [](\OML/zplm/m/it/10.95 z[] \OT1/zplm/m/n/10.95 + \OML/zplm/m/it/1
@@ -914,14 +920,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.4}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1349 \end{align}
+l.1342 \end{align}
                    [10] [11]pdfTeX warning (ext4): destination with the same id
 entifier (name{section.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1386 \section{Proofs of other results}
+l.1379 \section{Proofs of other results}
                                         
-Overfull \hbox (13.56662pt too wide) detected at line 1393
+Overfull \hbox (13.56662pt too wide) detected at line 1386
 [] []\OMS/zplm/m/n/10.95 f\OML/zplm/m/it/10.95 Y[]\OT1/zplm/m/n/10.95 (\OML/zpl
 m/m/it/10.95 j\OT1/zplm/m/n/10.95 ) \OMS/zplm/m/n/10.95 ^^@ []\OT1/zplm/m/n/10.
 95 (\OML/zplm/m/it/10.95 j\OT1/zplm/m/n/10.95 )\OMS/zplm/m/n/10.95 g[] \OT1/zpl
@@ -930,7 +936,7 @@ m/m/n/10.95 = [] [][] \OMS/zplm/m/n/10.95 ^^T [] [][] ^^T [] ! \OT1/pplx/m/n/10
  []
 
 
-Overfull \hbox (37.90959pt too wide) detected at line 1427
+Overfull \hbox (37.90959pt too wide) detected at line 1420
 \U/fplmbb/m/n/10.95 P [] \OMS/zplm/m/n/10.95 ^^U \OT1/pplx/m/n/10.95 1 \OMS/zpl
 m/m/n/10.95 ^^@ \U/fplmbb/m/n/10.95 P\OMS/zplm/m/n/10.95 f\OML/zplm/m/it/10.95 
 G[]\OT1/zplm/m/n/10.95 (\OML/zplm/m/it/10.95 T\OT1/zplm/m/n/10.95 ) \OMS/zplm/m
@@ -947,19 +953,19 @@ n/10.95 (\OML/zplm/m/it/10.95 x\OT1/zplm/m/n/10.95 ) \OML/zplm/m/it/10.95 > 
 [12] [13]
 
 LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 14
-82.
+75.
 
 
 LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 14
-82.
+75.
 
 [14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1513.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1506.
  [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1513.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1506.
  (./StudentWriteup.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1513.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1513.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1506.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1506.
 
 Package rerunfilecheck Info: File `StudentWriteup.out' has not changed.
 (rerunfilecheck)             Checksum: 440B8CDA2901E1DD945619B68B701B95;2346.
@@ -967,16 +973,16 @@ Package rerunfilecheck Info: File `StudentWriteup.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1513.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1506.
  ) 
 Here is how much of TeX's memory you used:
  12581 strings out of 493029
  187080 string characters out of 6136233
- 310327 words of memory out of 5000000
+ 310309 words of memory out of 5000000
  15615 multiletter control sequences out of 15000+600000
  57623 words of font info for 173 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,24n,43p,1636b,568s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,24n,43p,1636b,566s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
@@ -989,10 +995,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on StudentWriteup.pdf (45 pages, 394155 bytes).
+Output written on StudentWriteup.pdf (45 pages, 394364 bytes).
 PDF statistics:
- 1145 PDF objects out of 1200 (max. 8388607)
- 1057 compressed objects within 11 object streams
+ 1148 PDF objects out of 1200 (max. 8388607)
+ 1060 compressed objects within 11 object streams
  234 named destinations out of 1000 (max. 500000)
  300 words of extra memory for PDF output out of 10000 (max. 10000000)
 
