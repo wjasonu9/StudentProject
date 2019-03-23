@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: StudentWriteup.aux
+The style file: plainnat.bst
+Database file #1: refs.bib
+Warning--can't use both author and editor fields in ATHEY201773
+Warning--can't use both author and editor fields in duflo2007using
+You've used 85 entries,
+            2773 wiz_defined-function locations,
+            1080 strings with 16979 characters,
+and the built_in function-call counts, 36584 in all, are:
+= -- 3391
+> -- 1657
+< -- 75
++ -- 581
+- -- 492
+* -- 2698
+:= -- 5568
+add.period$ -- 255
+call.type$ -- 85
+change.case$ -- 411
+chr.to.int$ -- 81
+cite$ -- 172
+duplicate$ -- 1821
+empty$ -- 3235
+format.name$ -- 631
+if$ -- 7755
+int.to.chr$ -- 5
+int.to.str$ -- 1
+missing$ -- 95
+newline$ -- 433
+num.names$ -- 340
+pop$ -- 780
+preamble$ -- 1
+purify$ -- 334
+quote$ -- 0
+skip$ -- 1349
+stack$ -- 0
+substring$ -- 1764
+swap$ -- 203
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 880
+warning$ -- 2
+while$ -- 374
+width$ -- 0
+write$ -- 1104
+(There were 2 warnings)
